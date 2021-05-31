@@ -1,0 +1,7 @@
+{
+    "name": "zhangsan",
+    "agee" : 16,
+    "email": "123456@qq.com",
+    "password": "158946",
+    "hobbies" : ["打球","做饭"]  
+}

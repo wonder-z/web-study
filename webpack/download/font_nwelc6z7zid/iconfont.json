@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "20519817",
+      "name": "对话框",
+      "font_class": "duihuakuang",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "20519867",
+      "name": "扭蛋",
+      "font_class": "niudan",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "20519868",
+      "name": "流星",
+      "font_class": "liuxing",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "20529809",
+      "name": "纸飞机",
+      "font_class": "zhifeiji",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    }
+  ]
+}
